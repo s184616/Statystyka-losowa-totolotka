@@ -1,0 +1,16 @@
+Dla zakresu dat: 01.01.2001 - 31.12.2002
+Najczesciej 6 wystepujacych: 
+cyfra: 46 ilosc wystapien: 34 Prawdop: 16.0377% 
+cyfra: 30 ilosc wystapien: 32 Prawdop: 15.0943% 
+cyfra: 27 ilosc wystapien: 32 Prawdop: 15.0943% 
+cyfra: 4 ilosc wystapien: 32 Prawdop: 15.0943% 
+cyfra: 39 ilosc wystapien: 31 Prawdop: 14.6226% 
+cyfra: 20 ilosc wystapien: 31 Prawdop: 14.6226% 
+
+Najrzadziej 6 wystepujacych: 
+cyfra: 49 ilosc wystapien: 20 Prawdop: 9.43396% 
+cyfra: 44 ilosc wystapien: 19 Prawdop: 8.96226% 
+cyfra: 31 ilosc wystapien: 19 Prawdop: 8.96226% 
+cyfra: 8 ilosc wystapien: 19 Prawdop: 8.96226% 
+cyfra: 5 ilosc wystapien: 18 Prawdop: 8.49057% 
+cyfra: 3 ilosc wystapien: 18 Prawdop: 8.49057% 
